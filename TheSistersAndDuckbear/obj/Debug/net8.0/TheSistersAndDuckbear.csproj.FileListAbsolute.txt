@@ -1,0 +1,14 @@
+C:\Users\pautz\source\repos\TheSistersAndDuckbear\obj\Debug\net8.0\TheSistersAndDuckbear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pautz\source\repos\TheSistersAndDuckbear\obj\Debug\net8.0\TheSistersAndDuckbear.AssemblyInfoInputs.cache
+C:\Users\pautz\source\repos\TheSistersAndDuckbear\obj\Debug\net8.0\TheSistersAndDuckbear.AssemblyInfo.cs
+C:\Users\pautz\source\repos\TheSistersAndDuckbear\obj\Debug\net8.0\TheSistersAndDuckbear.csproj.CoreCompileInputs.cache
+C:\Users\pautz\source\repos\TheSistersAndDuckbear\bin\Debug\net8.0\TheSistersAndDuckbear.exe
+C:\Users\pautz\source\repos\TheSistersAndDuckbear\bin\Debug\net8.0\TheSistersAndDuckbear.deps.json
+C:\Users\pautz\source\repos\TheSistersAndDuckbear\bin\Debug\net8.0\TheSistersAndDuckbear.runtimeconfig.json
+C:\Users\pautz\source\repos\TheSistersAndDuckbear\bin\Debug\net8.0\TheSistersAndDuckbear.dll
+C:\Users\pautz\source\repos\TheSistersAndDuckbear\bin\Debug\net8.0\TheSistersAndDuckbear.pdb
+C:\Users\pautz\source\repos\TheSistersAndDuckbear\obj\Debug\net8.0\TheSistersAndDuckbear.dll
+C:\Users\pautz\source\repos\TheSistersAndDuckbear\obj\Debug\net8.0\refint\TheSistersAndDuckbear.dll
+C:\Users\pautz\source\repos\TheSistersAndDuckbear\obj\Debug\net8.0\TheSistersAndDuckbear.pdb
+C:\Users\pautz\source\repos\TheSistersAndDuckbear\obj\Debug\net8.0\TheSistersAndDuckbear.genruntimeconfig.cache
+C:\Users\pautz\source\repos\TheSistersAndDuckbear\obj\Debug\net8.0\ref\TheSistersAndDuckbear.dll
