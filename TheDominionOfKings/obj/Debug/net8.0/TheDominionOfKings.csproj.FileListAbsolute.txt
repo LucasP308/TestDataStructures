@@ -1,0 +1,14 @@
+C:\Users\pautz\source\repos\TheDominionOfKings\bin\Debug\net8.0\TheDominionOfKings.exe
+C:\Users\pautz\source\repos\TheDominionOfKings\bin\Debug\net8.0\TheDominionOfKings.deps.json
+C:\Users\pautz\source\repos\TheDominionOfKings\bin\Debug\net8.0\TheDominionOfKings.runtimeconfig.json
+C:\Users\pautz\source\repos\TheDominionOfKings\bin\Debug\net8.0\TheDominionOfKings.dll
+C:\Users\pautz\source\repos\TheDominionOfKings\bin\Debug\net8.0\TheDominionOfKings.pdb
+C:\Users\pautz\source\repos\TheDominionOfKings\obj\Debug\net8.0\TheDominionOfKings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pautz\source\repos\TheDominionOfKings\obj\Debug\net8.0\TheDominionOfKings.AssemblyInfoInputs.cache
+C:\Users\pautz\source\repos\TheDominionOfKings\obj\Debug\net8.0\TheDominionOfKings.AssemblyInfo.cs
+C:\Users\pautz\source\repos\TheDominionOfKings\obj\Debug\net8.0\TheDominionOfKings.csproj.CoreCompileInputs.cache
+C:\Users\pautz\source\repos\TheDominionOfKings\obj\Debug\net8.0\TheDominionOfKings.dll
+C:\Users\pautz\source\repos\TheDominionOfKings\obj\Debug\net8.0\refint\TheDominionOfKings.dll
+C:\Users\pautz\source\repos\TheDominionOfKings\obj\Debug\net8.0\TheDominionOfKings.pdb
+C:\Users\pautz\source\repos\TheDominionOfKings\obj\Debug\net8.0\TheDominionOfKings.genruntimeconfig.cache
+C:\Users\pautz\source\repos\TheDominionOfKings\obj\Debug\net8.0\ref\TheDominionOfKings.dll

@@ -1,0 +1,14 @@
+C:\Users\pautz\source\repos\RePairingTheClockTower\bin\Debug\net8.0\RePairingTheClockTower.exe
+C:\Users\pautz\source\repos\RePairingTheClockTower\bin\Debug\net8.0\RePairingTheClockTower.deps.json
+C:\Users\pautz\source\repos\RePairingTheClockTower\bin\Debug\net8.0\RePairingTheClockTower.runtimeconfig.json
+C:\Users\pautz\source\repos\RePairingTheClockTower\bin\Debug\net8.0\RePairingTheClockTower.dll
+C:\Users\pautz\source\repos\RePairingTheClockTower\bin\Debug\net8.0\RePairingTheClockTower.pdb
+C:\Users\pautz\source\repos\RePairingTheClockTower\obj\Debug\net8.0\RePairingTheClockTower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pautz\source\repos\RePairingTheClockTower\obj\Debug\net8.0\RePairingTheClockTower.AssemblyInfoInputs.cache
+C:\Users\pautz\source\repos\RePairingTheClockTower\obj\Debug\net8.0\RePairingTheClockTower.AssemblyInfo.cs
+C:\Users\pautz\source\repos\RePairingTheClockTower\obj\Debug\net8.0\RePairingTheClockTower.csproj.CoreCompileInputs.cache
+C:\Users\pautz\source\repos\RePairingTheClockTower\obj\Debug\net8.0\RePairingTheClockTower.dll
+C:\Users\pautz\source\repos\RePairingTheClockTower\obj\Debug\net8.0\refint\RePairingTheClockTower.dll
+C:\Users\pautz\source\repos\RePairingTheClockTower\obj\Debug\net8.0\RePairingTheClockTower.pdb
+C:\Users\pautz\source\repos\RePairingTheClockTower\obj\Debug\net8.0\RePairingTheClockTower.genruntimeconfig.cache
+C:\Users\pautz\source\repos\RePairingTheClockTower\obj\Debug\net8.0\ref\RePairingTheClockTower.dll

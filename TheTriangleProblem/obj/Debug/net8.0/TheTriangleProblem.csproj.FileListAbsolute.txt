@@ -1,0 +1,14 @@
+C:\Users\pautz\source\repos\TheTriangleProblem\bin\Debug\net8.0\TheTriangleProblem.exe
+C:\Users\pautz\source\repos\TheTriangleProblem\bin\Debug\net8.0\TheTriangleProblem.deps.json
+C:\Users\pautz\source\repos\TheTriangleProblem\bin\Debug\net8.0\TheTriangleProblem.runtimeconfig.json
+C:\Users\pautz\source\repos\TheTriangleProblem\bin\Debug\net8.0\TheTriangleProblem.dll
+C:\Users\pautz\source\repos\TheTriangleProblem\bin\Debug\net8.0\TheTriangleProblem.pdb
+C:\Users\pautz\source\repos\TheTriangleProblem\obj\Debug\net8.0\TheTriangleProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pautz\source\repos\TheTriangleProblem\obj\Debug\net8.0\TheTriangleProblem.AssemblyInfoInputs.cache
+C:\Users\pautz\source\repos\TheTriangleProblem\obj\Debug\net8.0\TheTriangleProblem.AssemblyInfo.cs
+C:\Users\pautz\source\repos\TheTriangleProblem\obj\Debug\net8.0\TheTriangleProblem.csproj.CoreCompileInputs.cache
+C:\Users\pautz\source\repos\TheTriangleProblem\obj\Debug\net8.0\TheTriangleProblem.dll
+C:\Users\pautz\source\repos\TheTriangleProblem\obj\Debug\net8.0\refint\TheTriangleProblem.dll
+C:\Users\pautz\source\repos\TheTriangleProblem\obj\Debug\net8.0\TheTriangleProblem.pdb
+C:\Users\pautz\source\repos\TheTriangleProblem\obj\Debug\net8.0\TheTriangleProblem.genruntimeconfig.cache
+C:\Users\pautz\source\repos\TheTriangleProblem\obj\Debug\net8.0\ref\TheTriangleProblem.dll

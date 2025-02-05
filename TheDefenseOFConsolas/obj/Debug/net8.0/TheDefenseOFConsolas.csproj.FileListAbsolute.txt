@@ -1,0 +1,14 @@
+C:\Users\pautz\source\repos\TheDefenseOFConsolas\bin\Debug\net8.0\TheDefenseOFConsolas.exe
+C:\Users\pautz\source\repos\TheDefenseOFConsolas\bin\Debug\net8.0\TheDefenseOFConsolas.deps.json
+C:\Users\pautz\source\repos\TheDefenseOFConsolas\bin\Debug\net8.0\TheDefenseOFConsolas.runtimeconfig.json
+C:\Users\pautz\source\repos\TheDefenseOFConsolas\bin\Debug\net8.0\TheDefenseOFConsolas.dll
+C:\Users\pautz\source\repos\TheDefenseOFConsolas\bin\Debug\net8.0\TheDefenseOFConsolas.pdb
+C:\Users\pautz\source\repos\TheDefenseOFConsolas\obj\Debug\net8.0\TheDefenseOFConsolas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pautz\source\repos\TheDefenseOFConsolas\obj\Debug\net8.0\TheDefenseOFConsolas.AssemblyInfoInputs.cache
+C:\Users\pautz\source\repos\TheDefenseOFConsolas\obj\Debug\net8.0\TheDefenseOFConsolas.AssemblyInfo.cs
+C:\Users\pautz\source\repos\TheDefenseOFConsolas\obj\Debug\net8.0\TheDefenseOFConsolas.csproj.CoreCompileInputs.cache
+C:\Users\pautz\source\repos\TheDefenseOFConsolas\obj\Debug\net8.0\TheDefenseOFConsolas.dll
+C:\Users\pautz\source\repos\TheDefenseOFConsolas\obj\Debug\net8.0\refint\TheDefenseOFConsolas.dll
+C:\Users\pautz\source\repos\TheDefenseOFConsolas\obj\Debug\net8.0\TheDefenseOFConsolas.pdb
+C:\Users\pautz\source\repos\TheDefenseOFConsolas\obj\Debug\net8.0\TheDefenseOFConsolas.genruntimeconfig.cache
+C:\Users\pautz\source\repos\TheDefenseOFConsolas\obj\Debug\net8.0\ref\TheDefenseOFConsolas.dll
