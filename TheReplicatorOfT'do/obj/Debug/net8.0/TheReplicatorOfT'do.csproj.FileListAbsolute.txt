@@ -1,0 +1,14 @@
+C:\Users\pautz\source\repos\TheReplicatorOfT'do\bin\Debug\net8.0\TheReplicatorOfT'do.exe
+C:\Users\pautz\source\repos\TheReplicatorOfT'do\bin\Debug\net8.0\TheReplicatorOfT'do.deps.json
+C:\Users\pautz\source\repos\TheReplicatorOfT'do\bin\Debug\net8.0\TheReplicatorOfT'do.runtimeconfig.json
+C:\Users\pautz\source\repos\TheReplicatorOfT'do\bin\Debug\net8.0\TheReplicatorOfT'do.dll
+C:\Users\pautz\source\repos\TheReplicatorOfT'do\bin\Debug\net8.0\TheReplicatorOfT'do.pdb
+C:\Users\pautz\source\repos\TheReplicatorOfT'do\obj\Debug\net8.0\TheReplicatorOfT'do.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pautz\source\repos\TheReplicatorOfT'do\obj\Debug\net8.0\TheReplicatorOfT'do.AssemblyInfoInputs.cache
+C:\Users\pautz\source\repos\TheReplicatorOfT'do\obj\Debug\net8.0\TheReplicatorOfT'do.AssemblyInfo.cs
+C:\Users\pautz\source\repos\TheReplicatorOfT'do\obj\Debug\net8.0\TheReplicatorOfT'do.csproj.CoreCompileInputs.cache
+C:\Users\pautz\source\repos\TheReplicatorOfT'do\obj\Debug\net8.0\TheReplicatorOfT'do.dll
+C:\Users\pautz\source\repos\TheReplicatorOfT'do\obj\Debug\net8.0\refint\TheReplicatorOfT'do.dll
+C:\Users\pautz\source\repos\TheReplicatorOfT'do\obj\Debug\net8.0\TheReplicatorOfT'do.pdb
+C:\Users\pautz\source\repos\TheReplicatorOfT'do\obj\Debug\net8.0\TheReplicatorOfT'do.genruntimeconfig.cache
+C:\Users\pautz\source\repos\TheReplicatorOfT'do\obj\Debug\net8.0\ref\TheReplicatorOfT'do.dll
