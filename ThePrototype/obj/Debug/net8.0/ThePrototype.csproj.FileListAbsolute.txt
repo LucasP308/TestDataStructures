@@ -1,0 +1,14 @@
+C:\Users\pautz\source\repos\ThePrototype\bin\Debug\net8.0\ThePrototype.exe
+C:\Users\pautz\source\repos\ThePrototype\bin\Debug\net8.0\ThePrototype.deps.json
+C:\Users\pautz\source\repos\ThePrototype\bin\Debug\net8.0\ThePrototype.runtimeconfig.json
+C:\Users\pautz\source\repos\ThePrototype\bin\Debug\net8.0\ThePrototype.dll
+C:\Users\pautz\source\repos\ThePrototype\bin\Debug\net8.0\ThePrototype.pdb
+C:\Users\pautz\source\repos\ThePrototype\obj\Debug\net8.0\ThePrototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pautz\source\repos\ThePrototype\obj\Debug\net8.0\ThePrototype.AssemblyInfoInputs.cache
+C:\Users\pautz\source\repos\ThePrototype\obj\Debug\net8.0\ThePrototype.AssemblyInfo.cs
+C:\Users\pautz\source\repos\ThePrototype\obj\Debug\net8.0\ThePrototype.csproj.CoreCompileInputs.cache
+C:\Users\pautz\source\repos\ThePrototype\obj\Debug\net8.0\ThePrototype.dll
+C:\Users\pautz\source\repos\ThePrototype\obj\Debug\net8.0\refint\ThePrototype.dll
+C:\Users\pautz\source\repos\ThePrototype\obj\Debug\net8.0\ThePrototype.pdb
+C:\Users\pautz\source\repos\ThePrototype\obj\Debug\net8.0\ThePrototype.genruntimeconfig.cache
+C:\Users\pautz\source\repos\ThePrototype\obj\Debug\net8.0\ref\ThePrototype.dll

@@ -1,0 +1,14 @@
+C:\Users\pautz\source\repos\DiscountInventory\bin\Debug\net8.0\DiscountInventory.exe
+C:\Users\pautz\source\repos\DiscountInventory\bin\Debug\net8.0\DiscountInventory.deps.json
+C:\Users\pautz\source\repos\DiscountInventory\bin\Debug\net8.0\DiscountInventory.runtimeconfig.json
+C:\Users\pautz\source\repos\DiscountInventory\bin\Debug\net8.0\DiscountInventory.dll
+C:\Users\pautz\source\repos\DiscountInventory\bin\Debug\net8.0\DiscountInventory.pdb
+C:\Users\pautz\source\repos\DiscountInventory\obj\Debug\net8.0\DiscountInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pautz\source\repos\DiscountInventory\obj\Debug\net8.0\DiscountInventory.AssemblyInfoInputs.cache
+C:\Users\pautz\source\repos\DiscountInventory\obj\Debug\net8.0\DiscountInventory.AssemblyInfo.cs
+C:\Users\pautz\source\repos\DiscountInventory\obj\Debug\net8.0\DiscountInventory.csproj.CoreCompileInputs.cache
+C:\Users\pautz\source\repos\DiscountInventory\obj\Debug\net8.0\DiscountInventory.dll
+C:\Users\pautz\source\repos\DiscountInventory\obj\Debug\net8.0\refint\DiscountInventory.dll
+C:\Users\pautz\source\repos\DiscountInventory\obj\Debug\net8.0\DiscountInventory.pdb
+C:\Users\pautz\source\repos\DiscountInventory\obj\Debug\net8.0\DiscountInventory.genruntimeconfig.cache
+C:\Users\pautz\source\repos\DiscountInventory\obj\Debug\net8.0\ref\DiscountInventory.dll
