@@ -1,0 +1,14 @@
+C:\Users\pautz\source\repos\AbsoluteValueSum\obj\Debug\net8.0\AbsoluteValueSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pautz\source\repos\AbsoluteValueSum\obj\Debug\net8.0\AbsoluteValueSum.AssemblyInfoInputs.cache
+C:\Users\pautz\source\repos\AbsoluteValueSum\obj\Debug\net8.0\AbsoluteValueSum.AssemblyInfo.cs
+C:\Users\pautz\source\repos\AbsoluteValueSum\obj\Debug\net8.0\AbsoluteValueSum.csproj.CoreCompileInputs.cache
+C:\Users\pautz\source\repos\AbsoluteValueSum\bin\Debug\net8.0\AbsoluteValueSum.exe
+C:\Users\pautz\source\repos\AbsoluteValueSum\bin\Debug\net8.0\AbsoluteValueSum.deps.json
+C:\Users\pautz\source\repos\AbsoluteValueSum\bin\Debug\net8.0\AbsoluteValueSum.runtimeconfig.json
+C:\Users\pautz\source\repos\AbsoluteValueSum\bin\Debug\net8.0\AbsoluteValueSum.dll
+C:\Users\pautz\source\repos\AbsoluteValueSum\bin\Debug\net8.0\AbsoluteValueSum.pdb
+C:\Users\pautz\source\repos\AbsoluteValueSum\obj\Debug\net8.0\AbsoluteValueSum.dll
+C:\Users\pautz\source\repos\AbsoluteValueSum\obj\Debug\net8.0\refint\AbsoluteValueSum.dll
+C:\Users\pautz\source\repos\AbsoluteValueSum\obj\Debug\net8.0\AbsoluteValueSum.pdb
+C:\Users\pautz\source\repos\AbsoluteValueSum\obj\Debug\net8.0\AbsoluteValueSum.genruntimeconfig.cache
+C:\Users\pautz\source\repos\AbsoluteValueSum\obj\Debug\net8.0\ref\AbsoluteValueSum.dll

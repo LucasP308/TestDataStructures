@@ -1,0 +1,14 @@
+C:\Users\pautz\source\repos\CharacterCounter\obj\Debug\net8.0\CharacterCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pautz\source\repos\CharacterCounter\obj\Debug\net8.0\CharacterCounter.AssemblyInfoInputs.cache
+C:\Users\pautz\source\repos\CharacterCounter\obj\Debug\net8.0\CharacterCounter.AssemblyInfo.cs
+C:\Users\pautz\source\repos\CharacterCounter\obj\Debug\net8.0\CharacterCounter.csproj.CoreCompileInputs.cache
+C:\Users\pautz\source\repos\CharacterCounter\bin\Debug\net8.0\CharacterCounter.exe
+C:\Users\pautz\source\repos\CharacterCounter\bin\Debug\net8.0\CharacterCounter.deps.json
+C:\Users\pautz\source\repos\CharacterCounter\bin\Debug\net8.0\CharacterCounter.runtimeconfig.json
+C:\Users\pautz\source\repos\CharacterCounter\bin\Debug\net8.0\CharacterCounter.dll
+C:\Users\pautz\source\repos\CharacterCounter\bin\Debug\net8.0\CharacterCounter.pdb
+C:\Users\pautz\source\repos\CharacterCounter\obj\Debug\net8.0\CharacterCounter.dll
+C:\Users\pautz\source\repos\CharacterCounter\obj\Debug\net8.0\refint\CharacterCounter.dll
+C:\Users\pautz\source\repos\CharacterCounter\obj\Debug\net8.0\CharacterCounter.pdb
+C:\Users\pautz\source\repos\CharacterCounter\obj\Debug\net8.0\CharacterCounter.genruntimeconfig.cache
+C:\Users\pautz\source\repos\CharacterCounter\obj\Debug\net8.0\ref\CharacterCounter.dll

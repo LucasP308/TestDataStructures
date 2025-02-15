@@ -1,0 +1,14 @@
+C:\Users\pautz\source\repos\GetTheLargerStringNumber\obj\Debug\net8.0\GetTheLargerStringNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pautz\source\repos\GetTheLargerStringNumber\obj\Debug\net8.0\GetTheLargerStringNumber.AssemblyInfoInputs.cache
+C:\Users\pautz\source\repos\GetTheLargerStringNumber\obj\Debug\net8.0\GetTheLargerStringNumber.AssemblyInfo.cs
+C:\Users\pautz\source\repos\GetTheLargerStringNumber\obj\Debug\net8.0\GetTheLargerStringNumber.csproj.CoreCompileInputs.cache
+C:\Users\pautz\source\repos\GetTheLargerStringNumber\bin\Debug\net8.0\GetTheLargerStringNumber.exe
+C:\Users\pautz\source\repos\GetTheLargerStringNumber\bin\Debug\net8.0\GetTheLargerStringNumber.deps.json
+C:\Users\pautz\source\repos\GetTheLargerStringNumber\bin\Debug\net8.0\GetTheLargerStringNumber.runtimeconfig.json
+C:\Users\pautz\source\repos\GetTheLargerStringNumber\bin\Debug\net8.0\GetTheLargerStringNumber.dll
+C:\Users\pautz\source\repos\GetTheLargerStringNumber\bin\Debug\net8.0\GetTheLargerStringNumber.pdb
+C:\Users\pautz\source\repos\GetTheLargerStringNumber\obj\Debug\net8.0\GetTheLargerStringNumber.dll
+C:\Users\pautz\source\repos\GetTheLargerStringNumber\obj\Debug\net8.0\refint\GetTheLargerStringNumber.dll
+C:\Users\pautz\source\repos\GetTheLargerStringNumber\obj\Debug\net8.0\GetTheLargerStringNumber.pdb
+C:\Users\pautz\source\repos\GetTheLargerStringNumber\obj\Debug\net8.0\GetTheLargerStringNumber.genruntimeconfig.cache
+C:\Users\pautz\source\repos\GetTheLargerStringNumber\obj\Debug\net8.0\ref\GetTheLargerStringNumber.dll
