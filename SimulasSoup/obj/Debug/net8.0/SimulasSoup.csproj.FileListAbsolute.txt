@@ -1,0 +1,14 @@
+C:\Users\pautz\source\repos\SimulasSoup\bin\Debug\net8.0\SimulasSoup.exe
+C:\Users\pautz\source\repos\SimulasSoup\bin\Debug\net8.0\SimulasSoup.deps.json
+C:\Users\pautz\source\repos\SimulasSoup\bin\Debug\net8.0\SimulasSoup.runtimeconfig.json
+C:\Users\pautz\source\repos\SimulasSoup\bin\Debug\net8.0\SimulasSoup.dll
+C:\Users\pautz\source\repos\SimulasSoup\bin\Debug\net8.0\SimulasSoup.pdb
+C:\Users\pautz\source\repos\SimulasSoup\obj\Debug\net8.0\SimulasSoup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pautz\source\repos\SimulasSoup\obj\Debug\net8.0\SimulasSoup.AssemblyInfoInputs.cache
+C:\Users\pautz\source\repos\SimulasSoup\obj\Debug\net8.0\SimulasSoup.AssemblyInfo.cs
+C:\Users\pautz\source\repos\SimulasSoup\obj\Debug\net8.0\SimulasSoup.csproj.CoreCompileInputs.cache
+C:\Users\pautz\source\repos\SimulasSoup\obj\Debug\net8.0\SimulasSoup.dll
+C:\Users\pautz\source\repos\SimulasSoup\obj\Debug\net8.0\refint\SimulasSoup.dll
+C:\Users\pautz\source\repos\SimulasSoup\obj\Debug\net8.0\SimulasSoup.pdb
+C:\Users\pautz\source\repos\SimulasSoup\obj\Debug\net8.0\SimulasSoup.genruntimeconfig.cache
+C:\Users\pautz\source\repos\SimulasSoup\obj\Debug\net8.0\ref\SimulasSoup.dll

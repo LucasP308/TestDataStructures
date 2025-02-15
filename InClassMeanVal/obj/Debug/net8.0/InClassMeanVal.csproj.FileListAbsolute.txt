@@ -1,0 +1,14 @@
+C:\Users\pautz\source\repos\InClassMeanVal\obj\Debug\net8.0\InClassMeanVal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pautz\source\repos\InClassMeanVal\obj\Debug\net8.0\InClassMeanVal.AssemblyInfoInputs.cache
+C:\Users\pautz\source\repos\InClassMeanVal\obj\Debug\net8.0\InClassMeanVal.AssemblyInfo.cs
+C:\Users\pautz\source\repos\InClassMeanVal\obj\Debug\net8.0\InClassMeanVal.csproj.CoreCompileInputs.cache
+C:\Users\pautz\source\repos\InClassMeanVal\bin\Debug\net8.0\InClassMeanVal.exe
+C:\Users\pautz\source\repos\InClassMeanVal\bin\Debug\net8.0\InClassMeanVal.deps.json
+C:\Users\pautz\source\repos\InClassMeanVal\bin\Debug\net8.0\InClassMeanVal.runtimeconfig.json
+C:\Users\pautz\source\repos\InClassMeanVal\bin\Debug\net8.0\InClassMeanVal.dll
+C:\Users\pautz\source\repos\InClassMeanVal\bin\Debug\net8.0\InClassMeanVal.pdb
+C:\Users\pautz\source\repos\InClassMeanVal\obj\Debug\net8.0\InClassMeanVal.dll
+C:\Users\pautz\source\repos\InClassMeanVal\obj\Debug\net8.0\refint\InClassMeanVal.dll
+C:\Users\pautz\source\repos\InClassMeanVal\obj\Debug\net8.0\InClassMeanVal.pdb
+C:\Users\pautz\source\repos\InClassMeanVal\obj\Debug\net8.0\InClassMeanVal.genruntimeconfig.cache
+C:\Users\pautz\source\repos\InClassMeanVal\obj\Debug\net8.0\ref\InClassMeanVal.dll

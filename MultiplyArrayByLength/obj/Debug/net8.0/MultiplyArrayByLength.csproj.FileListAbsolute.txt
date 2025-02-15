@@ -1,0 +1,14 @@
+C:\Users\pautz\source\repos\MultiplyArrayByLength\bin\Debug\net8.0\MultiplyArrayByLength.exe
+C:\Users\pautz\source\repos\MultiplyArrayByLength\bin\Debug\net8.0\MultiplyArrayByLength.deps.json
+C:\Users\pautz\source\repos\MultiplyArrayByLength\bin\Debug\net8.0\MultiplyArrayByLength.runtimeconfig.json
+C:\Users\pautz\source\repos\MultiplyArrayByLength\bin\Debug\net8.0\MultiplyArrayByLength.dll
+C:\Users\pautz\source\repos\MultiplyArrayByLength\bin\Debug\net8.0\MultiplyArrayByLength.pdb
+C:\Users\pautz\source\repos\MultiplyArrayByLength\obj\Debug\net8.0\MultiplyArrayByLength.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pautz\source\repos\MultiplyArrayByLength\obj\Debug\net8.0\MultiplyArrayByLength.AssemblyInfoInputs.cache
+C:\Users\pautz\source\repos\MultiplyArrayByLength\obj\Debug\net8.0\MultiplyArrayByLength.AssemblyInfo.cs
+C:\Users\pautz\source\repos\MultiplyArrayByLength\obj\Debug\net8.0\MultiplyArrayByLength.csproj.CoreCompileInputs.cache
+C:\Users\pautz\source\repos\MultiplyArrayByLength\obj\Debug\net8.0\MultiplyArrayByLength.dll
+C:\Users\pautz\source\repos\MultiplyArrayByLength\obj\Debug\net8.0\refint\MultiplyArrayByLength.dll
+C:\Users\pautz\source\repos\MultiplyArrayByLength\obj\Debug\net8.0\MultiplyArrayByLength.pdb
+C:\Users\pautz\source\repos\MultiplyArrayByLength\obj\Debug\net8.0\MultiplyArrayByLength.genruntimeconfig.cache
+C:\Users\pautz\source\repos\MultiplyArrayByLength\obj\Debug\net8.0\ref\MultiplyArrayByLength.dll
