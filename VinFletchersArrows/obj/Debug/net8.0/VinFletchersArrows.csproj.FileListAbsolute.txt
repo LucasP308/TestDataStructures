@@ -1,0 +1,14 @@
+C:\Users\pautz\source\repos\VinFletchersArrows\obj\Debug\net8.0\VinFletchersArrows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pautz\source\repos\VinFletchersArrows\obj\Debug\net8.0\VinFletchersArrows.AssemblyInfoInputs.cache
+C:\Users\pautz\source\repos\VinFletchersArrows\obj\Debug\net8.0\VinFletchersArrows.AssemblyInfo.cs
+C:\Users\pautz\source\repos\VinFletchersArrows\obj\Debug\net8.0\VinFletchersArrows.csproj.CoreCompileInputs.cache
+C:\Users\pautz\source\repos\VinFletchersArrows\bin\Debug\net8.0\VinFletchersArrows.exe
+C:\Users\pautz\source\repos\VinFletchersArrows\bin\Debug\net8.0\VinFletchersArrows.deps.json
+C:\Users\pautz\source\repos\VinFletchersArrows\bin\Debug\net8.0\VinFletchersArrows.runtimeconfig.json
+C:\Users\pautz\source\repos\VinFletchersArrows\bin\Debug\net8.0\VinFletchersArrows.dll
+C:\Users\pautz\source\repos\VinFletchersArrows\bin\Debug\net8.0\VinFletchersArrows.pdb
+C:\Users\pautz\source\repos\VinFletchersArrows\obj\Debug\net8.0\VinFletchersArrows.dll
+C:\Users\pautz\source\repos\VinFletchersArrows\obj\Debug\net8.0\refint\VinFletchersArrows.dll
+C:\Users\pautz\source\repos\VinFletchersArrows\obj\Debug\net8.0\VinFletchersArrows.pdb
+C:\Users\pautz\source\repos\VinFletchersArrows\obj\Debug\net8.0\VinFletchersArrows.genruntimeconfig.cache
+C:\Users\pautz\source\repos\VinFletchersArrows\obj\Debug\net8.0\ref\VinFletchersArrows.dll
