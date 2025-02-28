@@ -1,0 +1,14 @@
+C:\Users\pautz\source\repos\Employees\obj\Debug\net8.0\Employees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pautz\source\repos\Employees\obj\Debug\net8.0\Employees.AssemblyInfoInputs.cache
+C:\Users\pautz\source\repos\Employees\obj\Debug\net8.0\Employees.AssemblyInfo.cs
+C:\Users\pautz\source\repos\Employees\obj\Debug\net8.0\Employees.csproj.CoreCompileInputs.cache
+C:\Users\pautz\source\repos\Employees\bin\Debug\net8.0\Employees.exe
+C:\Users\pautz\source\repos\Employees\bin\Debug\net8.0\Employees.deps.json
+C:\Users\pautz\source\repos\Employees\bin\Debug\net8.0\Employees.runtimeconfig.json
+C:\Users\pautz\source\repos\Employees\bin\Debug\net8.0\Employees.dll
+C:\Users\pautz\source\repos\Employees\bin\Debug\net8.0\Employees.pdb
+C:\Users\pautz\source\repos\Employees\obj\Debug\net8.0\Employees.dll
+C:\Users\pautz\source\repos\Employees\obj\Debug\net8.0\refint\Employees.dll
+C:\Users\pautz\source\repos\Employees\obj\Debug\net8.0\Employees.pdb
+C:\Users\pautz\source\repos\Employees\obj\Debug\net8.0\Employees.genruntimeconfig.cache
+C:\Users\pautz\source\repos\Employees\obj\Debug\net8.0\ref\Employees.dll
