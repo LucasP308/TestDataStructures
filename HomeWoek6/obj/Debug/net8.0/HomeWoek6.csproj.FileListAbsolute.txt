@@ -1,0 +1,14 @@
+C:\Users\pautz\source\repos\HomeWoek6\bin\Debug\net8.0\HomeWoek6.exe
+C:\Users\pautz\source\repos\HomeWoek6\bin\Debug\net8.0\HomeWoek6.deps.json
+C:\Users\pautz\source\repos\HomeWoek6\bin\Debug\net8.0\HomeWoek6.runtimeconfig.json
+C:\Users\pautz\source\repos\HomeWoek6\bin\Debug\net8.0\HomeWoek6.dll
+C:\Users\pautz\source\repos\HomeWoek6\bin\Debug\net8.0\HomeWoek6.pdb
+C:\Users\pautz\source\repos\HomeWoek6\obj\Debug\net8.0\HomeWoek6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pautz\source\repos\HomeWoek6\obj\Debug\net8.0\HomeWoek6.AssemblyInfoInputs.cache
+C:\Users\pautz\source\repos\HomeWoek6\obj\Debug\net8.0\HomeWoek6.AssemblyInfo.cs
+C:\Users\pautz\source\repos\HomeWoek6\obj\Debug\net8.0\HomeWoek6.csproj.CoreCompileInputs.cache
+C:\Users\pautz\source\repos\HomeWoek6\obj\Debug\net8.0\HomeWoek6.dll
+C:\Users\pautz\source\repos\HomeWoek6\obj\Debug\net8.0\refint\HomeWoek6.dll
+C:\Users\pautz\source\repos\HomeWoek6\obj\Debug\net8.0\HomeWoek6.pdb
+C:\Users\pautz\source\repos\HomeWoek6\obj\Debug\net8.0\HomeWoek6.genruntimeconfig.cache
+C:\Users\pautz\source\repos\HomeWoek6\obj\Debug\net8.0\ref\HomeWoek6.dll
